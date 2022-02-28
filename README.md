@@ -1,3 +1,6 @@
+## Finished project
+https://my-react-search-githubuser.netlify.app/
+
 ## Starter Project
 
 - css provided (global styles, styled components)
