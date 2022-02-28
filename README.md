@@ -1,4 +1,4 @@
-## Finished project
+## Finished project link
 https://my-react-search-githubuser.netlify.app/
 
 ## Starter Project
